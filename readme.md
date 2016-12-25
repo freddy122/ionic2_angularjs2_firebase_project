@@ -26,7 +26,7 @@ Liste des personnes dans la base pour le 3 plateforme (ios,android,windows phone
 
 ![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/affichage_liste_sous_le_3plateforme.png)
 
-Ajout nouveau personne (On effectue le test sur le plateform ios)
+Ajout nouveau personne (On effectue le test sur le plateform ios) après une click sur le boutton (+) en haut et à droite
 
 ![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/ajout_personne.png)
 
