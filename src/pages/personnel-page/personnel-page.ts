@@ -44,7 +44,7 @@ export class PersonnelPage {
       {
         text: 'Annuler',
         handler: data => {
-          console.log('Cancel clicked');
+          console.log('bouton annuler clické');
         }
       },
       {
