@@ -1,9 +1,8 @@
 import { NgModule, ErrorHandler } from '@angular/core';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
-import { HelloIonicPage } from '../pages/hello-ionic/hello-ionic';
-import { ItemDetailsPage } from '../pages/item-details/item-details';
-import { ListPage } from '../pages/list/list';
+import { PersonnelPage } from '../pages/personnel-page/personnel-page';
+
 // Import the AF2 Module
 import { AngularFireModule } from 'angularfire2';
  
@@ -19,9 +18,7 @@ export const firebaseConfig = {
 @NgModule({
   declarations: [
     MyApp,
-    HelloIonicPage,
-    ItemDetailsPage,
-    ListPage
+	PersonnelPage
   ],
   imports: [
     IonicModule.forRoot(MyApp),
@@ -30,9 +27,7 @@ export const firebaseConfig = {
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    HelloIonicPage,
-    ItemDetailsPage,
-    ListPage
+	PersonnelPage
   ],
   providers: []
 })

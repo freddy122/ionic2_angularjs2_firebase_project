@@ -16,7 +16,6 @@ export class PersonnelPage {
   personnels: FirebaseListObservable<any>;
   constructor(public navCtrl: NavController,public alertCtrl: AlertController,af: AngularFire,public actionSheetCtrl: ActionSheetController) {
 		this.personnels = af.database.list('/personnels');
-		
   }
   ajoutPersonnel(){
 	let prompt = this.alertCtrl.create({
