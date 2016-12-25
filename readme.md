@@ -42,6 +42,10 @@ Quand on click sur modif on a l'image ci dessous
 
 ![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/modif_pers.png)
 
+Après modification de notre test on l'image ci dessou
+
+![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/liste_apres_modif.png)
+
 Après suppression de notre test on l'image ci dessou
 
 ![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/liste_apres_suppression.png)
