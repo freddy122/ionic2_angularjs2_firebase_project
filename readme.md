@@ -22,7 +22,7 @@ Pointez vers le répertoire du projet puis tapez:
 
 2) Quelque capture d'écran : 
 
-Affichage du liste de information des personnes dans la base pour le 3 plateforme (ios,android,windows phone)
+Liste des personnes dans la base pour le 3 plateforme (ios,android,windows phone)
 
 ![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/affichage_liste_sous_le_3plateforme.png)
 
