@@ -25,3 +25,23 @@ Pointez vers le répertoire du projet puis tapez:
 Affichage du liste de personne dans la base pour le 3 plateforme (ios,android,windows phone)
 
 ![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/affichage_liste_sous_le_3plateforme.png)
+
+Ajout nouveau personne
+
+![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/ajout_personne.png)
+
+Données dans firebase après ajout
+
+![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/donnees_dans_firebase.png)
+
+Après click sur une enregistrement dans la liste il y des option modifier/supprimer ou annuler
+
+![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/apres_click.png)
+
+Quand on click sur modif on a l'image ci dessous
+
+![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/liste_apres_modif.png)
+
+Après suppression de notre test on l'image ci dessou
+
+![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/liste_apres_suppression.png)
