@@ -20,4 +20,8 @@ Pointez vers le répertoire du projet puis tapez:
     
     ionic serve -l
 
-Quelque capture d'écran : 
+2) Quelque capture d'écran : 
+
+Affichage du liste de personne dans la base pour le 3 plateforme (ios,android,windows phone)
+
+![alt tag](https://github.com/freddy122/ionic_project/capture/affichage_liste_sous_le_3plateforme.png.png)
