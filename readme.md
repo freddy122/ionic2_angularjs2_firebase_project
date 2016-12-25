@@ -1,4 +1,4 @@
-Projet réalisér avec Ionic2 , angularjs 2 et firebase 2
+Projet réalisér avec Ionic2 , angularjs 2 et firebase
 =======
 
 
@@ -40,7 +40,7 @@ Après click sur une enregistrement dans la liste il y des option modifier/suppr
 
 Quand on click sur modif on a l'image ci dessous
 
-![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/liste_apres_modif.png)
+![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/modif_pers.png)
 
 Après suppression de notre test on l'image ci dessou
 
