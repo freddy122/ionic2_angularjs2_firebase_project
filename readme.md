@@ -26,7 +26,7 @@ Affichage du liste de personne dans la base pour le 3 plateforme (ios,android,wi
 
 ![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/affichage_liste_sous_le_3plateforme.png)
 
-Ajout nouveau personne
+Ajout nouveau personne (On effectue le test sur le plateform ios)
 
 ![alt tag](https://github.com/freddy122/ionic_project/blob/master/capture/ajout_personne.png)
 
